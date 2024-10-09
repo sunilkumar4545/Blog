@@ -1,11 +1,11 @@
 export const siteConfig: SiteConfig = {
-    title: "Hi! Jazee",
+    title: "Hi! Floks!",
     language: "zh",
     description: "Jazee's personal blog. Powered by Astro Blog Theme Blur.",
     keywords: "Jazee, blog, personal blog, Astro, Astro Blog Theme Blur",
-    author: "Jazee",
-    avatar: "/avatar.png",
-    favicon: "/favicon.png",
+    author: "Sunil Kumar",
+    avatar: "/sunny.png",
+    favicon: "/favicon.ico",
     site: "https://jaze.top",
 
     page_size: 10,

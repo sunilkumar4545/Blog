@@ -1,12 +1,12 @@
 [
   {
-    "title": "Astro Blur",
-    "repo": "https://github.com/Jazee6/astro-blur",
-    "description": "A static blog theme built with Astro / 一个静态Astro博客主题"
+    "title": "college website",
+    "repo": "https://github.com/sunilkumar4545/pace-website",
+    "description": "Developed a responsive college web page using HTML5, CSS3, JavaScript, AOS library for smooth animations, and Bootstrap for a mobile-friendly layout. The site includes sections like Home, Courses, and Contact, optimized for all devices. It was hosted on Netlify with version control managed through GitHub.."
   },
   {
-    "title": "Cloudflare AI Web",
-    "repo": "https://github.com/Jazee6/cloudflare-ai-web",
-    "description": "支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台"
+    "title": "Photographer Website",
+    "repo": "https://sunilkumar4545.github.io/Photographer-Portfolio.github.io/index.html",
+    "description": "For this project, I used HTML, CSS, and JavaScript, incorporating modern libraries to elevate the site's aesthetics and functionality. The result is a fast, secure, and scalable web experience built on JAMstack, featuring smooth scroll animations and interactive elements to enhance user engagement. Explore Niharika Visions to see how we've made this vision a reality! 🎨🌐 It was hosted on Netlify with version control managed through GitHub.."
   }
 ]
