@@ -1,10 +1,10 @@
 {
-  "name": "Hi! Jazee",
-  "short_name": "Jazee's Blog",
+  "name": "Hi! Folks",
+  "short_name": "Sunil Kumar Blog",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "Jazee's Blog",
+  "description": "Sunil's Blog",
   "icons": [
     {
       "src": "/pwa.webp",
@@ -15,7 +15,7 @@
   "related_applications": [
     {
       "platform": "web",
-      "url": "https://jaze.top"
+      "url": "https://sunil-blog.netlify.app/"
     }
   ]
 }
