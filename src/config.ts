@@ -1,12 +1,12 @@
 export const siteConfig: SiteConfig = {
     title: "Hi! Floks!",
     language: "zh",
-    description: "Jazee's personal blog. Powered by Astro Blog Theme Blur.",
-    keywords: "Jazee, blog, personal blog, Astro, Astro Blog Theme Blur",
+    description: "Sunil Kumars personal blog..",
+    keywords: "sunil, blog, personal blog",
     author: "Sunil Kumar",
     avatar: "/sunny.png",
     favicon: "/favicon.ico",
-    site: "https://jaze.top",
+    site: "https://sunil-blog.netlify.app/",
 
     page_size: 10,
 }
@@ -33,12 +33,12 @@ export const socialLinks: SocialLink[] = [
     {
         label: 'GitHub',
         icon: 'mdi-github',
-        url: 'https://github.com/Jazee6'
+        url: 'https://github.com/sunilkumar4545'
     },
     {
         label: 'Email',
         icon: 'material-symbols:mail-rounded',
-        url: 'mailto:jazee@jaze.top'
+        url: 'mailto:sunilkumarsodisetty4545@gmail.com'
     }
 ]
 
