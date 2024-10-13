@@ -3,7 +3,7 @@ title: Semtech IC Design Staff Engineer Job Description
 description: Job opening for IC Design Staff Engineer at Semtech Corporation
 pubDate: 2024-10-13
 ---
-
+![alt text](semtech.jpeg)
 ## Semtech is Hiring for IC Design Staff Engineer
 
 Semtech Corporation is offering an exciting opportunity for the position of **IC Design Staff Engineer**. If you're passionate about semiconductor design and eager to work on cutting-edge technologies, this role could be perfect for you!
