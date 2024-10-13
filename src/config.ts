@@ -4,7 +4,7 @@ export const siteConfig: SiteConfig = {
     description: "Sunil Kumars personal blog..",
     keywords: "sunil, blog, personal blog",
     author: "Sunil Kumar",
-    avatar: "s.jpg",
+    avatar: "/s.jpg",
     favicon: "/favicon.ico",
     site: "https://sunil-blog.netlify.app/",
 
