@@ -13,6 +13,7 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
     links: [
+        
         {
             name: 'Home',
             url: 'https://sunilkumar4545.github.io/sunilkumarsodisetty/'
