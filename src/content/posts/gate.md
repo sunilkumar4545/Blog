@@ -1,20 +1,16 @@
 ---
 title: "Comprehensive Guide to GATE 2025 Resources and Coaching"
-description: "This official guide provides a detailed list of online GATE coaching centers, free GATE resources, and helpful YouTube playlists to help you prepare for GATE 2025. Whether you're studying Mechanical, CSE, ECE, or other branches, you'll find essential study materials here."
 author: "Sunil Kumar Sodisetty"
-published_on: "2024-10-17"
+description: "This official guide provides a detailed list of online GATE coaching centers, free GATE resources, and helpful YouTube playlists to help you prepare for GATE 2025. Whether you're studying Mechanical, CSE, ECE, or other branches, you'll find essential study materials here."
+pubDate: "2024-10-17"
 ---
 
-![GATE 2025 Official Guide Banner](path-to-banner-image)  
 *Comprehensive Guide to GATE 2025 Resources and Coaching*
-
----
 
 ## GATE 2025 Registration Link
 Make sure to complete your registration for the GATE 2025 exam through the official website. Early registration ensures you don’t face last-minute issues.
 
-![GATE Registration](path-to-gate-registration-image)  
-- [Register for GATE 2025 Here](https://goaps.iitr.ac.in/register)
+[Register for GATE 2025 Here](https://goaps.iitr.ac.in/register)
 
 ---
 
@@ -28,9 +24,6 @@ Here are some of the top-rated GATE coaching centres that offer online courses. 
 | Physics Wallah           | [https://www.pw.live](https://www.pw.live/online-course-physics-wallah-gate-exam) |
 | GateForum               | [https://gateforum.com](https://gateforum.com)                 |
 
-![Online GATE Coaching](path-to-coaching-centres-image)  
-*Online coaching options from trusted sources*
-
 ---
 
 ## Free GATE Resources (All Branches)
@@ -42,9 +35,6 @@ Access free, high-quality study materials that cover all branches of engineering
 4. **GATE Test Papers & Syllabus** - [IIT Roorkee GATE Test Papers & Syllabus](https://gate2025.iitr.ac.in/exam-papers-and-syllabus.html)
 5. **Material (Mech)** - [Google Drive Folder for Mechanical Engineering Materials](https://drive.google.com/drive/folders/1mj8bT_TO8StNfjVJ3tFcLDUTLlILlNgB)
 6. **NPTEL Video Lectures for GATE (All Branches)** - [NPTEL GATE Lectures](https://gate.nptel.ac.in/)
-
-![Free GATE Resources](path-to-free-resources-image)  
-*Wide range of free study materials for GATE aspirants*
 
 ---
 
@@ -75,13 +65,15 @@ YouTube playlists provide an easy-to-follow, self-paced method to study. The fol
 - [GATE Wallah EE, EC, CS Playlists](https://www.youtube.com/@GATEWallah_EE_EC_CS_IN/playlists)  
   *Covering EE, EC, and CS branches*
 
-![YouTube Playlists for GATE](path-to-youtube-playlists-image)  
-*Learn from top educators on YouTube*
+---
+
+## Additional Resources Shared on Telegram
+For more resources, tips, and blogs related to GATE preparation, join my [Telegram channel](https://t.me/studentshare255), where I share helpful materials, blogs, and student-friendly resources to ease your preparation journey.
 
 ---
 
 ## Final Thoughts
-The journey to GATE success is about utilizing the right resources, staying consistent, and solving as many practice problems as possible. Whether you're using free study materials, paid coaching, or YouTube playlists, plan your preparation well, and give yourself ample time to cover the syllabus. 
+The journey to GATE success is about utilizing the right resources, staying consistent, and solving as many practice problems as possible. Whether you're using free study materials, paid coaching, or YouTube playlists, plan your preparation well, and give yourself ample time to cover the syllabus.
 
 Start now, stay focused, and you'll be well-prepared for GATE 2025!
 
@@ -89,4 +81,3 @@ Start now, stay focused, and you'll be well-prepared for GATE 2025!
 
 **Author:** Sunil Kumar Sodisetty  
 **Published on:** 2024-10-17
-
