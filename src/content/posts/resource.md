@@ -5,7 +5,6 @@ author: "Sunil Kumar Sodisetty"
 pubDate: "2024-10-18"
 ---
 
-
 # Placement Preparation Guide
 
 **Author**: Sunil Kumar Sodisetty  
